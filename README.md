@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Cuppa/30-nites-of-code)  
+  ![@Cuppa #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Cuppa)
 <!--
 **gufran-06/gufran-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Cuppa/30-nites-of-code)  
-  ![@Cuppa #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Cuppa)
 -->
